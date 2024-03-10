@@ -54,6 +54,7 @@
             originalPictureBox.Location = new Point(12, 12);
             originalPictureBox.Name = "originalPictureBox";
             originalPictureBox.Size = new Size(380, 271);
+            originalPictureBox.SizeMode = PictureBoxSizeMode.StretchImage;
             originalPictureBox.TabIndex = 4;
             originalPictureBox.TabStop = false;
             // 
